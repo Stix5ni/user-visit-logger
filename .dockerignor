@@ -1,0 +1,6 @@
+# Исключаем все временные файлы
+*.log
+*.tmp
+*.swp
+node_modules
+vendor
